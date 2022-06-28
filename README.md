@@ -12,7 +12,7 @@ Travelly acts as a social media and advertising platform, providing gap-year sty
 - [Grant Tolhurst](https://github.com/GrantRT)
 - [Laura Walters](https://github.com/laurawalters1)
 
-<img src="./screenshot.png">
+![image](https://user-images.githubusercontent.com/93350224/176174261-17dd5012-a2cc-4e7a-8e79-535dbe38ae3a.png)
 
 ## Technologies Used:
 
